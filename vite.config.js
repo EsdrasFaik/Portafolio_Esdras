@@ -8,7 +8,7 @@ import path, { resolve } from "node:path";
 export default defineConfig(
     {
         appType: "mpa",
-        base: "/PORTAFOLIO/",
+        base: "/pw2_vitempa-main/",
         build: {
             rollupOptions: {
                 input: Object.fromEntries(
